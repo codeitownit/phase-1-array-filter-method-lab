@@ -1,5 +1,4 @@
 // Code your solution here
-// Code your solution here
 
 const drivers = ['Bobby', 'Sammy', 'Sally', 'Annette', 'Sarah', 'bobby']
 const drivers1= [
